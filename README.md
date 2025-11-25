@@ -14,4 +14,4 @@ Este programa permite que o usuário escolha o modelo de camiseta, a quantidade 
 
 ## Como executar
 ```bash
-python pedido_camisetas.py
+python calculo_frete.py
